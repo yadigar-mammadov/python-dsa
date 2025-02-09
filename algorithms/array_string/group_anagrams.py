@@ -4,7 +4,6 @@ from typing import List
 class GroupAnagrams:
 
     def __init__(self, strings: List[str]):
-        """Strings """
         self.strings = strings
 
     def group_anagrams_by_sorting(self) -> List[List[str]]:

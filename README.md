@@ -1,9 +1,7 @@
 # python-dsa
 Implementation of data structures and algorithms
 
-# List of Algorithms
-
-## Alghorithms
+## Algorithms
 
 ### Array and string
 
